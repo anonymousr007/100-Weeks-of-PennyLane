@@ -44,45 +44,45 @@
 | [34. Nonlinear Coupling of Linearly Uncoupled Resonators](https://arxiv.org/abs/1812.11484) |
 | [35. Generation of photonic non-Gaussian states by measuring multimode Gaussian states](https://arxiv.org/abs/1902.02331) |
 | [36. Conversion of Gaussian states to non-Gaussian states using photon-number-resolving detectors](https://arxiv.org/abs/1902.02323) |
-| [37. ]() |
-| [38. ]() |
-| [39. ]() |
-| [40. ]() |
-| [41. ]() |
-| [42. ]() |
-| [43. ]() |
-| [44. ]() |
-| [45. ]() |
-| [46. ]() |
-| [47. ]() |
-| [48. ]() |
-| [49. ]() |
-| [50. ]() |
-| [51. ]() |
-| [52. ]() |
-| [53. ]() |
-| [54. ]() |
-| [55. ]() |
-| [56. ]() |
-| [57. ]() |
-| [58. ]() |
-| [59. ]() |
-| [60. ]() |
-| [61. ]() |
-| [62. ]() |
-| [63. ]() |
-| [64. ]() |
-| [65. ]() |
-| [66. ]() |
-| [67. ]() |
-| [68. ]() |
-| [69. ]() |
-| [70. ]() |
-| [71. ]() |
-| [72. ]() |
-| [73. ]() |
-| [74. ]() |
-| [75. ]() |
+| [37. Molecular Docking with Gaussian Boson Sampling](https://arxiv.org/abs/1902.00462) |
+| [38. A Quantum Approximate Optimization Algorithm for continuous problems](https://arxiv.org/abs/1902.00409) |
+| [39. Broadband quadrature-squeezed vacuum and nonclassical photon number correlations from a nanophotonic device](https://arxiv.org/abs/1904.07833) |
+| [40. Simulating realistic non-Gaussian state preparation](https://arxiv.org/abs/1905.07011) |
+| [41. Quantum-inspired algorithms in practice](https://arxiv.org/abs/1905.10415) |
+| [42. Regimes of classical simulability for noisy Gaussian boson sampling](https://arxiv.org/abs/1905.12075) |
+| [43. A quantum hardware-induced graph kernel based on Gaussian Boson Sampling](https://arxiv.org/abs/1905.12646) |
+| [44. Quantum-inspired memory-enhanced stochastic algorithms](https://arxiv.org/abs/1906.00263) |
+| [45. Point Processes with Gaussian Boson Sampling](https://arxiv.org/abs/1906.11972) |
+| [46. Exact simulation of Gaussian Boson Sampling in polynomial space and exponential time](https://arxiv.org/abs/1908.08068) |
+| [47. Quantum Natural Gradient](https://arxiv.org/abs/1909.02108) |
+| [48. Progress towards practical qubit computation using approximate Gottesman-Kitaev-Preskill codes](https://arxiv.org/abs/1910.03673) |
+| [49. A duality at the heart of Gaussian boson sampling](https://arxiv.org/abs/1910.04022) |
+| [50. Stimulated Four-Wave Mixing in Linearly Uncoupled Resonators](https://arxiv.org/abs/1910.11426) |
+| [51. Applications of Near-Term Photonic Quantum Computers: Software and Algorithms](https://arxiv.org/abs/1912.07634) |
+| [52. Circumventing defective components in linear optical interferometers](https://arxiv.org/abs/1912.08789) |
+| [53. Transfer learning in hybrid classical-quantum neural networks](https://arxiv.org/abs/1912.08278) |
+| [54. Quantum embeddings for machine learning](https://arxiv.org/abs/2001.03622) |
+| [55. Optimal modular architectures for universal linear optics](https://arxiv.org/abs/2001.02012) |
+| [56. Squeezed light from a nanophotonic molecule](https://arxiv.org/abs/2001.09474) |
+| [57. Training Gaussian Boson Sampling Distributions](https://arxiv.org/abs/2004.04770) |
+| [58. Fast optimization of parametrized quantum optical circuits](https://arxiv.org/abs/2004.11002) |
+| [59. Quantum Algorithm for Simulating Molecular Vibrational Excitations](https://arxiv.org/abs/2006.13339) |
+| [60. Estimating the gradient and higher-order derivatives on quantum hardware](https://arxiv.org/abs/2008.06517) |
+| [61. Error mitigation on a near-term quantum photonic device](https://arxiv.org/abs/2008.06670) |
+| [62. Blueprint for a Scalable Photonic Fault-Tolerant Quantum Computer](https://arxiv.org/abs/2010.02905) |
+| [63. Quadratic speedup for simulating Gaussian boson sampling](https://arxiv.org/abs/2010.15595) |
+| [64. Quantum Algorithm for Simulating Single-Molecule Electron Transport](https://arxiv.org/abs/2012.09231) |
+| [65. Supervised quantum machine learning models are kernel methods](https://arxiv.org/abs/2101.11020) |
+| [66. Quantum Computational Supremacy via High-Dimensional Gaussian Boson Sampling](https://arxiv.org/abs/2102.12474) |
+| [67. Quantum circuits with many photons on a programmable nanophotonic chip](https://arxiv.org/abs/2103.02109) |
+| [68. Mitigating linear optics imperfections via port allocation and compilation](https://arxiv.org/abs/2103.03183) |
+| [69. Fault-tolerant quantum computation with static linear optics](https://arxiv.org/abs/2104.03241) |
+| [70. Universal quantum circuits for quantum chemistry](https://arxiv.org/abs/2106.13839) |
+| [71. Variational quantum algorithm for molecular geometry optimization](https://arxiv.org/abs/2106.13840) |
+| [72. Jet: Fast quantum circuit simulations with parallel task-based tensor-network contraction](https://arxiv.org/abs/2107.09793) |
+| [73. General parameter-shift rules for quantum gradients](https://arxiv.org/abs/2107.12390) |
+| [74. Differentiable quantum computational chemistry with PennyLane](https://arxiv.org/abs/2111.09967) |
+| [75. Fast simulation of bosonic qubits via Gaussian functions in phase space](https://arxiv.org/abs/2103.05530) |
 
 | Days | Topic | Tweet Link |
 | ---- | ----- | ---------- |

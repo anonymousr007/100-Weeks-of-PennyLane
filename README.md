@@ -1,10 +1,63 @@
 # 100 Days of PennyLane
 
-* https://pennylane.ai/qml/whatisqml.html
-* https://www.youtube.com/playlist?list=PL_hJxz_HrXxvHeNgh-LimcS_EgprOVef5
-* https://pennylane.ai/qml/demos_getting-started.html
+- https://pennylane.ai/qml/whatisqml.html
+- https://www.youtube.com/playlist?list=PL_hJxz_HrXxvHeNgh-LimcS_EgprOVef5
+- https://pennylane.ai/qml/demos_getting-started.html
 
 ## Research Papers of Xanadu 
+
+Variational Quantum Optimization of Nonlocality in Noisy Quantum Networks
+2022-05-05
+Is quantum advantage the right goal for quantum machine learning?
+2022-03-03
+Quantum computing with differentiable quantum transforms
+2022-02-27
+General parameter-shift rules for quantum gradients
+2021-07-26
+Jet: Fast quantum circuit simulations with parallel task-based tensor-network contraction
+2021-07-20
+Quadratic speedup for simulating Gaussian boson sampling
+2020-10-29
+Applications of Near-Term Photonic Quantum Computers: Software and Algorithms
+2019-12-16
+A duality at the heart of Gaussian boson sampling
+2019-10-09
+The Classical Complexity of Gaussian Boson Sampling
+2019-08-21
+Point Processes with Gaussian Boson Sampling
+2019-06-27
+Quantum-inspired algorithms in practice
+2019-05-24
+Strawberry Fields: A Software Platform for Photonic Quantum Computing
+2019-04-19
+Simulating realistic non-Gaussian state preparation
+2019-03-19
+Graph isomorphism and Gaussian boson sampling
+2018-10-24
+Classical benchmarking of Gaussian Boson Sampling on the Titan supercomputer
+2018-10-01
+Photonic quantum algorithm for Monte Carlo integration
+2018-09-17
+Quantum algorithm for non-homogeneous linear partial differential equations
+2018-09-07
+Machine learning method for state preparation and gate synthesis on photonic quantum computers
+2018-07-27
+Gaussian Boson Sampling using threshold detectors
+2018-07-04
+A faster hafnian formula for complex matrices and its benchmarking on the Titan supercomputer
+2018-05-18
+Quantum computational finance: Monte Carlo pricing of financial derivatives
+2018-04-30
+Quantum approximate optimization with Gaussian boson sampling
+2018-03-28
+Using Gaussian Boson Sampling to Find Dense Subgraphs
+2018-03-28
+Quantum supremacy and high-dimensional integration
+2017-12-20
+Gaussian boson sampling for perfect matchings of arbitrary graphs
+2017-12-19
+Quantum Hopfield neural network
+2017-10-17
 
 | Topic                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------- |
